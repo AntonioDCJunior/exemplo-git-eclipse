@@ -7,6 +7,7 @@ public class ExemploGit {
 		//alterado
 		//alterado do eclipse
 		//teste
+		//teste de clonagem
 	}
 
 }
